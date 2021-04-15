@@ -1,0 +1,4 @@
+[14-Apr-2021 15:08:53 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING) in C:\Users\Fabien\Local Sites\graciet-co\app\public\wp-content\themes\twentytwentyone\functions.php on line 17
+[14-Apr-2021 15:08:53 UTC] PHP Parse error:  syntax error, unexpected 'url' (T_STRING) in C:\Users\Fabien\Local Sites\graciet-co\app\public\wp-content\themes\twentytwentyone\functions.php on line 17
+[14-Apr-2021 17:51:44 UTC] PHP Parse error:  syntax error, unexpected ''</div></div>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\Fabien\Local Sites\graciet-co\app\public\wp-content\plugins\options-for-twenty-twenty-one\options-for-twenty-twenty-one.php on line 3125
+[14-Apr-2021 17:51:44 UTC] PHP Parse error:  syntax error, unexpected ''</div></div>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\Fabien\Local Sites\graciet-co\app\public\wp-content\plugins\options-for-twenty-twenty-one\options-for-twenty-twenty-one.php on line 3125

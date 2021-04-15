@@ -1,0 +1,44 @@
+/*
+CTC Separate Stylesheet
+Updated: 2021-04-14 15:24:53
+Theme Name: Twenty Twenty-One Child
+Theme URI: https://wordpress.org/themes/twentytwentyone/
+Template: twentytwentyone
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme’s soft colors and eye-catching — yet timeless — design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.
+Tags: one-column,accessibility-ready,custom-colors,custom-menu,custom-logo,editor-style,featured-images,footer-widgets,block-patterns,rtl-language-support,sticky-post,threaded-comments,translation-ready
+Version: 1.2.1618413893
+*/
+
+header#masthead {
+    background-color: black;
+}
+
+button.contact-button {
+    width: 170px;
+    height: 45px;
+    background-color: #FFE26D !important;
+    color: black !important;
+    border-radius: 33px;
+    box-shadow: 0 3px 9px 0 rgb(0 0 0 / 20%);
+    text-align: center;
+    line-height: 0px;
+    font-family: 'open sans';
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 25px;
+    margin-right: 50px;
+}
+
+button.contact-button:hover {
+    border: none !important;
+}
+
+header#masthead {
+    height: 90px !important;
+}
+
+.site-header>.site-logo {
+    width: auto !important;
+}
